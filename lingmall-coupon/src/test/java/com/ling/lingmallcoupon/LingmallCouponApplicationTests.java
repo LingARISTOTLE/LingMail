@@ -1,10 +1,10 @@
-package com.ling.lingmailcoupon;
+package com.ling.lingmallcoupon;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class LingmailCouponApplicationTests {
+class LingmallCouponApplicationTests {
 
     @Test
     void contextLoads() {

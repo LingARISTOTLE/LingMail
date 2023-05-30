@@ -16,9 +16,9 @@
     <bytecodeTargetLevel>
       <module name="lingmall" target="1.5" />
       <module name="lingmall-coupon" target="1.8" />
-      <module name="lingmall-member" target="17" />
-      <module name="lingmall-order" target="17" />
-      <module name="lingmall-product" target="17" />
+      <module name="lingmall-member" target="1.8" />
+      <module name="lingmall-order" target="1.8" />
+      <module name="lingmall-product" target="1.8" />
       <module name="lingmall-ware" target="1.8" />
     </bytecodeTargetLevel>
   </component>
