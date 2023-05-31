@@ -8,8 +8,8 @@
 
 package com.ling.common.validator;
 
-import io.renren.common.exception.RRException;
-import io.renren.common.utils.Constant;
+import com.ling.common.exception.RRException;
+import com.ling.common.utils.Constant;
 
 import javax.validation.ConstraintViolation;
 import javax.validation.Validation;
