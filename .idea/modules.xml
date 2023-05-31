@@ -8,6 +8,8 @@
       <module fileurl="file://$PROJECT_DIR$/lingmall-order/lingmall-order.iml" filepath="$PROJECT_DIR$/lingmall-order/lingmall-order.iml" />
       <module fileurl="file://$PROJECT_DIR$/lingmall-product/lingmall-product.iml" filepath="$PROJECT_DIR$/lingmall-product/lingmall-product.iml" />
       <module fileurl="file://$PROJECT_DIR$/lingmall-ware/lingmall-ware.iml" filepath="$PROJECT_DIR$/lingmall-ware/lingmall-ware.iml" />
+      <module fileurl="file://$PROJECT_DIR$/renren-fast/renren-fast.iml" filepath="$PROJECT_DIR$/renren-fast/renren-fast.iml" />
+      <module fileurl="file://$PROJECT_DIR$/renren-generator/renren-generator.iml" filepath="$PROJECT_DIR$/renren-generator/renren-generator.iml" />
     </modules>
   </component>
 </project>
