@@ -21,6 +21,9 @@
         <module>lingmall-order</module>
         <module>lingmall-product</module>
         <module>lingmall-coupon</module>
+        <module>renren-fast</module>
+        <module>renren-generator</module>
+        <module>lingmall-common</module>
     </modules>
 
 </project>
